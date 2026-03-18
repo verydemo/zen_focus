@@ -86,6 +86,3 @@ class DistractionCategory {
     }
   }
 }
-
-// Import for IconData
-import 'package:flutter/material.dart';
